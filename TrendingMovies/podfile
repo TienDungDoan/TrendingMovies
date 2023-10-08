@@ -1,0 +1,10 @@
+use_frameworks!
+target 'TrendingMovies' do
+    pod 'IQKeyboardManager'
+    pod 'Alamofire'
+    pod "ZVProgressHUD"
+    pod 'Localize-Swift'
+    pod 'MagicalRecord'
+    pod 'SwiftyJSON'
+    pod 'SwiftDate'
+end

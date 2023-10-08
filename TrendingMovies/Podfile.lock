@@ -1,0 +1,51 @@
+PODS:
+  - Alamofire (5.6.4)
+  - IQKeyboardManager (6.5.11)
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - SwiftDate (7.0.0)
+  - SwiftyJSON (5.0.1)
+  - ZVActivityIndicatorView (1.0.0)
+  - ZVProgressHUD (3.0.6):
+    - ZVActivityIndicatorView
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManager
+  - Localize-Swift
+  - MagicalRecord
+  - SwiftDate
+  - SwiftyJSON
+  - ZVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManager
+    - Localize-Swift
+    - MagicalRecord
+    - SwiftDate
+    - SwiftyJSON
+    - ZVActivityIndicatorView
+    - ZVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  IQKeyboardManager: ef43ce1ba1e5aaf4adf222c0a46f39761f246879
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  SwiftDate: bbc26e26fc8c0c33fbee8c140c5e8a68293a148a
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  ZVActivityIndicatorView: fea0b3a8d8e0f54a106db3c6d543f7d5444cd9ea
+  ZVProgressHUD: dfa70d6d3a0ba98826f2fd9b73d2e2b01a69967e
+
+PODFILE CHECKSUM: 6794438a11616e3b6f1e67d4265c4c25bab7eb13
+
+COCOAPODS: 1.11.3
